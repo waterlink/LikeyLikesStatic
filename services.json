@@ -1,6 +1,8 @@
 {
 	"services": [
 		"/services/ItemCatalog.json?v=5",
-		"/services/ItemCatalogRenderer.json?v=4"
+		"/services/ItemCatalogRenderer.json?v=4",
+		"/services/Recommendations.json?v=100",
+		"/services/RecommendationsRenderer.json?v=100"
 	]
 }

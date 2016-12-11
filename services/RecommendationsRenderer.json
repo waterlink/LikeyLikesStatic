@@ -1,0 +1,15 @@
+{
+	"name": "RecommendationsRenderer",
+	"subscribe": {
+		"event": "rcv_recommendations",
+		"action": "render",
+		"options": {
+			"view": "item_list",
+			"publish": "Recommendations_rendered",
+			"params": {
+				"header": "You liked it! Here is some more!",
+				"dataAt": ".response.recommendations"
+			}
+		}
+	}
+}
