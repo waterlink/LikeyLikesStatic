@@ -5,7 +5,7 @@
 		"action": "request",
 		"interpolateOptions": ["url"],
 		"options": {
-			"url": "/recommendations/${.id}.json",
+			"url": "/recommendations/${.id}.json?v=2",
 			"publish": "rcv_recommendations"
 		}
 	}

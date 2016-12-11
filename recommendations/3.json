@@ -1,5 +1,5 @@
 {
-	"items": [
+	"recommendations": [
 		{"id": 21, "title": "Loire Valley"},
 		{"id": 22, "title": "Médoc"},
 		{"id": 23, "title": "Provence"}
