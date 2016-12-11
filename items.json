@@ -1,12 +1,12 @@
 {
 	"items": [
-		{"id": 1, "title": "Camembert"},
-		{"id": 2, "title": "Brie de Meaux"},
-		{"id": 3, "title": "Roquefort"},
-		{"id": 4, "title": "Boursin."},
-		{"id": 5, "title": "Reblochon"},
-		{"id": 6, "title": "Munster"},
-		{"id": 7, "title": "Pont l'Évêque"},
-		{"id": 8, "title": "Époisses"}
+		{"id": 1, "selectMeaning": "liked", "title": "Camembert"},
+		{"id": 2, "selectMeaning": "liked", "title": "Brie de Meaux"},
+		{"id": 3, "selectMeaning": "liked", "title": "Roquefort"},
+		{"id": 4, "selectMeaning": "liked", "title": "Boursin."},
+		{"id": 5, "selectMeaning": "liked", "title": "Reblochon"},
+		{"id": 6, "selectMeaning": "liked", "title": "Munster"},
+		{"id": 7, "selectMeaning": "liked", "title": "Pont l'Évêque"},
+		{"id": 8, "selectMeaning": "liked", "title": "Époisses"}
 	]
 }
