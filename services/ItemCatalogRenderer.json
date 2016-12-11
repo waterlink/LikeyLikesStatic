@@ -1,7 +1,7 @@
 {
 	"name": "ItemCatalogRenderer",
 	"subscribe": {
-		"event": "ItemCatalogService_start",
+		"event": "rcv_items",
 		"action": "render",
 		"options": {
 			"view": "item_list",
