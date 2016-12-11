@@ -1,0 +1,12 @@
+{
+	"name": "RecommendationsService",
+	"subscribe": {
+		"event": "item_liked",
+		"action": "request",
+		"interpolateOptions": ["url"],
+		"options": {
+			"url": "/recommendations/${.id}.json",
+			"publish": "rcv_recommendations"
+		}
+	}
+}
