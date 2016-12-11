@@ -1,6 +1,7 @@
 {
 	"services": [
 		"/services/ItemCatalog.json",
+		"/services/ItemCatalogRenderer.json",
 		"/services/Recommendations.json",
 		"/services/RecommendationsRenderer.json"
 	]

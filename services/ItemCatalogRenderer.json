@@ -1,0 +1,13 @@
+{
+	"subscribe": {
+		"event": "ItemCatalogService_start",
+		"action": "render",
+		"options": {
+			"view": "item_list",
+			"publish": "ItemCatalogService_rendered",
+			"params": {
+				"header": "Item Catalog"
+			}
+		}
+	}
+}
