@@ -1,4 +1,5 @@
 {
+	"name": "ItemCatalogRenderer",
 	"subscribe": {
 		"event": "ItemCatalogService_start",
 		"action": "render",
