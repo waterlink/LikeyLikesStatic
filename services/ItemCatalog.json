@@ -1,3 +1,10 @@
 {
-  "name": "ItemCatalogService"
+  "name": "ItemCatalogService",
+  "subscribe": {
+    "event": "ItemCatalogService_start",
+    "action": "log",
+    "options": {
+      "message": "starting.."
+    }
+  }
 }
