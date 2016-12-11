@@ -4,7 +4,7 @@
     "event": "ItemCatalogService_start",
     "action": "request",
     "options": {
-	"url": "/items.json",
+	"url": "/items.json?v=4",
 	"publish": "rcv_items"
     }
   }

@@ -5,9 +5,10 @@
 		"action": "render",
 		"options": {
 			"view": "item_list",
-			"publish": "ItemCatalogService_rendered",
+			"publish": "ItemCatalog_rendered",
 			"params": {
-				"header": "Item Catalog"
+				"header": "Item Catalog",
+				"dataAt": ".response.items"
 			}
 		}
 	}
